@@ -44,6 +44,24 @@ if(num<0){
     console.log("the number is a negative.")
 }
 
+// // if (num >0){
+// //  alert("the number is positive")
+// // }else if (num<0){
+// //   alert("the number is negative.")  
+// // }else{
+// //     // alert("teh number is a zero")
+// // }
+
+// function printerArray(mango){
+//     for (var i=0;i<mango.length;i++){
+//         console.log(mango[i])
+
+//     }
+
+// }
+// console.log("sweet","cat","racco")
+
+
 
 
 
